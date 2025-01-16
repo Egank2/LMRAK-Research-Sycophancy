@@ -6,5 +6,5 @@ class DatasetLoader:
         return self.dataset[split]
 
 # Example Usage
-dataset_loader = DatasetLoader("truthful_qa")
-train_dataset = dataset_loader.get_split("train")
+#dataset_loader = DatasetLoader("truthful_qa")
+#train_dataset = dataset_loader.get_split("train")
